@@ -1,4 +1,4 @@
-//For this challenge you will be adding up all the numbers from 1 to a certain argument.
+s//For this challenge you will be adding up all the numbers from 1 to a certain argument.
 function SimpleAdding(num) { 
 
     sum = 0;

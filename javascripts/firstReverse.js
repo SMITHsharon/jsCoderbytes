@@ -1,4 +1,4 @@
-// function reverses (returns) all the characters in the given string (str)
+f// function reverses (returns) all the characters in the given string (str)
 function FirstReverse(str) { 
 
   var splitStr = str.split("");

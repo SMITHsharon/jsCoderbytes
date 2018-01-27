@@ -1,4 +1,4 @@
-// function returns the longest word in given string (sen)
+l// function returns the longest word in given string (sen)
 function LongestWord(sen) { 
 
   var wordArray = sen.split(" ");
