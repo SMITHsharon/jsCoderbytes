@@ -13,3 +13,4 @@ simpleSymbols.js
 timeConvert.js  
 
 #### "harder" JavaScripts
+KaprekarsConstant.js  
