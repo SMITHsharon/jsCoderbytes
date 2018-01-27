@@ -1,6 +1,6 @@
 # jsCoderbytes Coding Challenges
 
-### "easy" JavaScripts
+#### "easy" JavaScripts
 alphabetSoup.js  
 checkNums.js  
 factorial.js  
@@ -12,4 +12,4 @@ simpleAdding.js
 simpleSymbols.js  
 timeConvert.js  
 
-### "harder" JavaScripts
+#### "harder" JavaScripts
