@@ -17,9 +17,6 @@ function LetterCapitalize(str) {
 var testString = prompt("Enter string to be capped: ");
 console.log("String :: ", testString);
 console.log("capped string is :: ", LetterCapitalize(testString));
-   
-// keep this function call here 
-LetterCapitalize(readline());
 
 
 // other solutions
