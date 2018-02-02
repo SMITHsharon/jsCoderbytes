@@ -6,7 +6,6 @@ For example: if str is "r?d?drdd" then your program should output the final corr
 */
 
 function CorrectPath(str) {
-	debugger
     // create an array to hold the positions of the question marks
 	let blankArray = [];
 	// put the position of the '?' characters into the array
@@ -40,7 +39,6 @@ function CorrectPath(str) {
 
 
 isPathGood = (str) => {
-	debugger
 	//create our empty array
 	let testArray = []
 	for (let i = 0; i < 5; i++) {
@@ -88,7 +86,6 @@ isPathGood = (str) => {
 };
 
 createPath = (str, blanks, num) => {
-	debugger
 	let moveArray = ['r', 'l', 'u', 'd'];
 	strArr = str.split('');
 	blanks.forEach((val, ind) => {
